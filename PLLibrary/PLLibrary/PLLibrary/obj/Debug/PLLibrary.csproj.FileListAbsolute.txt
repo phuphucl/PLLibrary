@@ -1,0 +1,8 @@
+D:\Projects\PLLibrary\PLLibrary\PLLibrary\bin\Debug\PLLibrary.dll
+D:\Projects\PLLibrary\PLLibrary\PLLibrary\bin\Debug\PLLibrary.pdb
+D:\Projects\SharedDLL\PLLibrary.dll
+D:\Projects\SharedDLL\PLLibrary.pdb
+D:\Projects\PLLibrary\PLLibrary\PLLibrary\obj\Debug\PLLibrary.csproj.AssemblyReference.cache
+D:\Projects\PLLibrary\PLLibrary\PLLibrary\obj\Debug\PLLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\PLLibrary\PLLibrary\PLLibrary\obj\Debug\PLLibrary.dll
+D:\Projects\PLLibrary\PLLibrary\PLLibrary\obj\Debug\PLLibrary.pdb
